@@ -1,4 +1,5 @@
 #!/bin/bash
+cd ~/microservices
 
 git pull origin main
 
