@@ -6,7 +6,7 @@ docker compose down
 
 docker compose down
 
-docker cmpose up 
+docker compose up 
 
 
 
