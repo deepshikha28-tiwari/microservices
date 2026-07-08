@@ -23,5 +23,6 @@ jobs:
 
           script: |
             cd ~/microservices
+            chmod +x ./deploy.sh
             ./deploy.sh
         
