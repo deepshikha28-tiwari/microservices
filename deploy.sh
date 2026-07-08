@@ -4,7 +4,9 @@ git pull origin main
 
 docker compose down
 
-docker cmpose up -d --build
+docker compose build
+
+docker compose up -d 
 
 
 
